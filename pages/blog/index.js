@@ -21,7 +21,7 @@ export default function Index({ articles }) {
         <meta name="title" content="Blog - Abdul Rahman" />
         <meta
           name="description"
-          content="Writings on programming, tutorials, and my experiences."
+          content="mebuat tutorial Programming."
         />
 
         <meta property="og:type" content="website" />
